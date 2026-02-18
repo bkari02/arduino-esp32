@@ -151,10 +151,10 @@
           "architecture": "esp32",
           "version": "3.3.7",
           "category": "ESP32",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/3.3.7/esp32-core-3.3.7.zip",
+          "url": "https://uni-muenster.sciebo.de/s/DHS8RyLXo9Qe8f4/download?path=%2F&files=esp32-core-3.3.7.zip",
           "archiveFileName": "esp32-core-3.3.7.zip",
-          "checksum": "SHA-256:5267dc9a240daf4b8d26d3a1eb4c4f1dc8a40d43d527e6f6ce08cb6baaf6efac",
-          "size": "27546724",
+          "checksum": "SHA-256:0d7c2810fa92458ea264b7c0d18bceffba00691d297871538ff6e2a9c5602b78",
+          "size": "28514562",
           "help": {
             "online": ""
           },
