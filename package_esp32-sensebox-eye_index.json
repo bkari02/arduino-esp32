@@ -12,10 +12,10 @@
         {
           "name": "esp32",
           "architecture": "esp32",
-          "version": "4.0.0",
+          "version": "3.3.8",
           "category": "ESP32",
-          "url": "https://uni-muenster.sciebo.de/s/KNmDKi55QHsFEn9/download?path=%2F&files=sensebox-eye-bsp.zip",
-          "archiveFileName": "sensebox-eye-bsp.zip",
+          "url": "https://uni-muenster.sciebo.de/s/KNmDKi55QHsFEn9/download?path=%2F&files=esp32-core-3.3.8.zip",
+          "archiveFileName": "esp32-core-3.3.8.zip",
           "checksum": "SHA-256:b6216eb334f43255eb6ce703ed35cb0215672cd1fd721636c27dd0fe47ae366b",
           "size": "50041142",
           "help": {
@@ -23,7 +23,31 @@
           },
           "boards": [
             {
+              "name": "ESP32 Dev Board"
+            },
+            {
+              "name": "ESP32-C3 Dev Board"
+            },
+            {
+              "name": "ESP32-C5 Dev Board"
+            },
+            {
+              "name": "ESP32-C6 Dev Board"
+            },
+            {
+              "name": "ESP32-H2 Dev Board"
+            },
+            {
+              "name": "ESP32-P4 Dev Board"
+            },
+            {
+              "name": "ESP32-S2 Dev Board"
+            },
+            {
               "name": "ESP32-S3 Dev Board"
+            },
+            {
+              "name": "Arduino Nano ESP32"
             },
             {
               "name": "senseBox Eye"
