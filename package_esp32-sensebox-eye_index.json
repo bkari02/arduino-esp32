@@ -1,23 +1,23 @@
 {
   "packages": [
     {
-      "name": "esp32-sensebox-eye",
-      "maintainer": "Benjamin Karic",
-      "websiteURL": "",
-      "email": "",
+      "name": "esp32",
+      "maintainer": "Espressif Systems",
+      "websiteURL": "https://github.com/espressif/arduino-esp32",
+      "email": "hristo@espressif.com",
       "help": {
-        "online": ""
+        "online": "http://esp32.com"
       },
       "platforms": [
         {
-          "name": "esp32-sensebox-eye",
+          "name": "esp32",
           "architecture": "esp32",
-          "version": "1.0.0-sensebox-eye",
-          "category": "Contributed",
+          "version": "4.0.0",
+          "category": "ESP32",
           "url": "https://uni-muenster.sciebo.de/s/FMpiWY2RCY2dsSk/download?path=%2F&files=sensebox-eye-bsp.zip",
           "archiveFileName": "sensebox-eye-bsp.zip",
-          "checksum": "SHA-256: 14aa631bc48ead0ecca85f5bc97fd4ed0d35ed47b3af8578d2089f50cc597592",
-          "size": "2007384519",
+          "checksum": "SHA-256: b6216eb334f43255eb6ce703ed35cb0215672cd1fd721636c27dd0fe47ae366b",
+          "size": "50041142",
           "help": {
             "online": ""
           },
